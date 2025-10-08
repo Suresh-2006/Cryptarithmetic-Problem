@@ -1,5 +1,5 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:Suresh S Y</h3>
+<h3>Name:Suresh S</h3>
 <h3>Register Number: 212223040215</h3>
 <H3>Aim:</H3>
 <p>
